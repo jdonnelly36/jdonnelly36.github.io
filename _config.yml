@@ -196,6 +196,8 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _blog/
+  - _news/
+  - _news/announcement_?.md
   - _projects/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
