@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a fourth-year PhD Student in Cynthia Rudin's interpretable machine learning lab at Duke University. I research interpretable and controllable machine learning models that empower domain experts to understand, edit, and learn from complex models. In doing so, my work supports scientific discovery and keeps experts in the loop. Across these goals, I work to achieve real-world impact by spanning the research-to-practice gap, with an emphasis on applications in healthcare.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I enjoy [running very long distances](https://ultrasignup.com/results_participant.aspx?fname=Jon&lname=Donnelly), cooking, and watching survivor.
