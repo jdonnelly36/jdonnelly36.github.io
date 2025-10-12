@@ -13,10 +13,6 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I'm a fourth-year PhD Student in Cynthia Rudin's interpretable machine learning lab at Duke University. I research interpretable and controllable machine learning models that empower domain experts to understand, edit, and learn from complex models. In doing so, my work supports scientific discovery and keeps experts in the loop. Across these goals, I work to achieve real-world impact by spanning the research-to-practice gap, with an emphasis on applications in healthcare.
