@@ -15,6 +15,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm an assistant professor in biostatistics at Johns Hopkins University. I research interpretable and controllable machine learning models that empower domain experts to understand, edit, and learn from complex models. In doing so, my work supports scientific discovery and keeps experts in the loop. Across these goals, I work to achieve real-world impact by spanning the research-to-practice gap, with an emphasis on applications in healthcare.
+Hello! I'm an assistant professor in Biostatistics at Johns Hopkins University. I also hold a secondary appointment in Computer Science, and am an affiliate member of the Malone Center for Engineering in Healthcare. I research interpretable and controllable machine learning models that empower domain experts to understand, edit, and learn from complex models. In doing so, my work supports scientific discovery and keeps experts in the loop. Across these goals, I work to achieve real-world impact by spanning the research-to-practice gap, with an emphasis on applications in healthcare.
 
 Outside of research, I enjoy [running very long distances](https://ultrasignup.com/results_participant.aspx?fname=Jon&lname=Donnelly), drinking excessive amounts of coffee, playing card/board games, cooking, and watching survivor.
